@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1553 >>
+stream
+BT /F1 28 Tf 241 750 Td (Chat PDF) Tj ET
+BT /F1 20 Tf 192 706 Td (Lista de Precios 2024) Tj ET
+50.00 680.00 m 545.00 680.00 l S
+BT /F1 14 Tf 50 650 Td (Precios vigentes - Todos los precios en USD) Tj ET
+BT /F1 14 Tf 50 615 Td (PLANES MENSUALES) Tj ET
+50.00 600.00 m 545.00 600.00 l S
+BT /F1 12 Tf 50 575 Td (Plan Basico .......................... $29.99/mes) Tj ET
+BT /F1 12 Tf 50 557 Td (Plan Premium ......................... $99.99/mes) Tj ET
+BT /F1 12 Tf 50 539 Td (Plan Empresarial ..................... Consultar) Tj ET
+BT /F1 14 Tf 50 501 Td (PLANES ANUALES \(20% descuento\)) Tj ET
+50.00 486.00 m 545.00 486.00 l S
+BT /F1 12 Tf 50 461 Td (Plan Basico Anual .................... $287.90/anio) Tj ET
+BT /F1 12 Tf 50 443 Td (Plan Premium Anual ................... $959.90/anio) Tj ET
+BT /F1 12 Tf 50 425 Td (Plan Empresarial Anual ............... Consultar) Tj ET
+BT /F1 14 Tf 50 387 Td (SERVICIOS ADICIONALES) Tj ET
+50.00 372.00 m 545.00 372.00 l S
+BT /F1 12 Tf 50 347 Td (Configuracion inicial ................ $49.99) Tj ET
+BT /F1 12 Tf 50 329 Td (Capacitacion \(por hora\) .............. $75.00) Tj ET
+BT /F1 12 Tf 50 311 Td (Soporte extendido .................... $19.99/mes) Tj ET
+BT /F1 12 Tf 50 293 Td (Integracion personalizada ............ Desde $199.99) Tj ET
+50.00 250.00 m 545.00 250.00 l S
+BT /F1 10 Tf 50 230 Td (* Precios sujetos a cambios sin previo aviso.) Tj ET
+BT /F1 10 Tf 50 214 Td (* Consulte por descuentos especiales para grupos.) Tj ET
+BT /F1 10 Tf 50 198 Td (Contacto: info@chatpdf.com | WhatsApp: +1 555 145 3837) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001845 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1942
+%%EOF

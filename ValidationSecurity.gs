@@ -82,7 +82,15 @@ function sanitizePhoneNumber(phone) {
     return '';
   }
   // Eliminar todo excepto dígitos
-  return phone.replace(/\D/g, '');
+  var cleaned = phone.replace(/\D/g, '');
+
+  // Fix México: 521XXXXXXXXXX -> 52XXXXXXXXXX
+  // Meta a veces requiere el número sin el '1' después del código de país 52
+  if (cleaned.startsWith('521') && cleaned.length === 13) {
+    cleaned = '52' + cleaned.substring(3);
+  }
+
+  return cleaned;
 }
 
 /**

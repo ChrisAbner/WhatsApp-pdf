@@ -64,7 +64,9 @@ function getConfig() {
     WHATSAPP_TOKEN:  props.getProperty('WHATSAPP_TOKEN'),
     PHONE_NUMBER_ID: props.getProperty('PHONE_NUMBER_ID'),
     VERIFY_TOKEN:    props.getProperty('VERIFY_TOKEN'),
-    SHEET_ID:        props.getProperty('SHEET_ID')
+    SHEET_ID:             props.getProperty('SHEET_ID'),
+    KEYWORD_PDF_CATALOGO: props.getProperty('KEYWORD_PDF_CATALOGO'),
+    KEYWORD_PDF_PRECIOS:  props.getProperty('KEYWORD_PDF_PRECIOS')
   };
 }
 
@@ -78,12 +80,12 @@ function getConfig() {
  */
 function setupConfiguration() {
   PropertiesService.getScriptProperties().setProperties({
-    'WHATSAPP_TOKEN':       'TU_TOKEN_PERMANENTE_AQUI',
-    'PHONE_NUMBER_ID':      'TU_PHONE_NUMBER_ID_AQUI',
-    'VERIFY_TOKEN':         'TU_VERIFY_TOKEN_SECRETO_AQUI',
-    'SHEET_ID':             'TU_GOOGLE_SHEET_ID_AQUI',
-    'KEYWORD_PDF_CATALOGO': 'ID_DEL_ARCHIVO_CATALOGO_EN_DRIVE',
-    'KEYWORD_PDF_PRECIOS':  'ID_DEL_ARCHIVO_PRECIOS_EN_DRIVE'
+    'WHATSAPP_TOKEN':       'EAAJ0ZChQSticBQmYY3IUPmDRLZBl2vm1oxGQHa3uqCIOECQ2nXEpCDpPzxhlmjCRlaG7xRC7gzS1ZCo11SDGdH2LxJKZBAL8a0qIu4nhZB5mNn8eoH7rb9lObQfeRAIZAnoswUKs2o9tO3gZAQ0GtnwWoBC6FWXPt4hnFwbTFlnnHZBP4yR9RZAUqx4kaDeneVmlNNQZAWlcDOha6lO5DkaBqilLAWYdrB6nlyiQ0sa3bH6ZAxxlpk8FvtZCB1kngytjugrGDZAtd0bMriS34ZAoEmaa1r',
+    'PHONE_NUMBER_ID':      '996489716881422',
+    'VERIFY_TOKEN':         'chatpdf_verify_2024',
+    'SHEET_ID':             '1WATRBjmdo6D60R1uSc7F74HY7AjRXlFdKJZUoJR60Sc',
+    'KEYWORD_PDF_CATALOGO': '1K4H-MDsJYiKyjUPXZt5PPgsjAM05Btj7',
+    'KEYWORD_PDF_PRECIOS':  '1KWtu2x06HesYmFl0HSPLgIrFM7kIuS4M'
   });
 
   Logger.log('Configuración guardada correctamente en Script Properties.');
